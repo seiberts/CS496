@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-0SD62B9</Machine>
+    <WindowsUser>Seibert_Desktop</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4a16d86c-b210-4809-ad69-953b10db1dc6</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Seibert_Desktop</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>ED80888C73C547EC89A2C13C684B8209D839DB38435B33A8D76B33F15C82DCD2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4a16d86c-b210-4809-ad69-953b10db1dc6_1.0.0.0_neutral__w93k44h75k40c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4a16d86c-b210-4809-ad69-953b10db1dc6_w93k44h75k40c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4a16d86c-b210-4809-ad69-953b10db1dc6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Seibert_Desktop</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-28T00:16:26.642</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\css\home.css">
+      <PackagePath>css\home.css</PackagePath>
+      <Modified>2016-07-27T02:35:11.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\css\location.css">
+      <PackagePath>css\location.css</PackagePath>
+      <Modified>2015-09-20T21:20:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\css\menu.css">
+      <PackagePath>css\menu.css</PackagePath>
+      <Modified>2016-07-27T02:05:39.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\css\newCustomer.css">
+      <PackagePath>css\newCustomer.css</PackagePath>
+      <Modified>2016-07-23T03:13:25.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\css\order.css">
+      <PackagePath>css\order.css</PackagePath>
+      <Modified>2016-07-27T02:38:41.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\css\returnCustomer.css">
+      <PackagePath>css\returnCustomer.css</PackagePath>
+      <Modified>2016-07-27T02:18:42.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-07-18T20:01:31.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2016-02-29T01:16:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2016-02-29T01:16:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\html\home.html">
+      <PackagePath>html\home.html</PackagePath>
+      <Modified>2016-07-26T00:05:06.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\html\location.html">
+      <PackagePath>html\location.html</PackagePath>
+      <Modified>2016-07-26T00:41:36.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\html\menu.html">
+      <PackagePath>html\menu.html</PackagePath>
+      <Modified>2016-07-27T02:16:34.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\html\newCustomer.html">
+      <PackagePath>html\newCustomer.html</PackagePath>
+      <Modified>2016-07-19T19:35:35.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\html\order.html">
+      <PackagePath>html\order.html</PackagePath>
+      <Modified>2016-07-28T00:15:56.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\html\returnCustomer.html">
+      <PackagePath>html\returnCustomer.html</PackagePath>
+      <Modified>2016-07-19T14:51:39.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-07-27T03:40:51.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-09-20T21:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T21:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T21:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T21:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T21:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T21:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T21:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\js\getTotal.js">
+      <PackagePath>js\getTotal.js</PackagePath>
+      <Modified>2016-07-27T23:09:08.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\js\home.js">
+      <PackagePath>js\home.js</PackagePath>
+      <Modified>2016-07-26T01:43:51.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\js\location.js">
+      <PackagePath>js\location.js</PackagePath>
+      <Modified>2016-07-26T00:40:02.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2016-07-27T03:26:53.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\js\menu.js">
+      <PackagePath>js\menu.js</PackagePath>
+      <Modified>2016-07-27T02:05:12.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\js\newCustomer.js">
+      <PackagePath>js\newCustomer.js</PackagePath>
+      <Modified>2016-07-19T03:00:30.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\js\order.js">
+      <PackagePath>js\order.js</PackagePath>
+      <Modified>2016-07-28T00:14:28.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\js\returnCustomer.js">
+      <PackagePath>js\returnCustomer.js</PackagePath>
+      <Modified>2016-07-19T12:08:23.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2016-02-29T01:16:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2016-02-29T01:16:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+      <Modified>2016-04-12T16:10:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Seibert_Desktop\documents\visual studio 2015\Projects\seibertSandwich\seibertSandwich\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-28T00:16:26.545</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

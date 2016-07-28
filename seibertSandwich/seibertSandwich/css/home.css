@@ -1,0 +1,20 @@
+﻿html{
+    overflow: scroll;
+}
+
+body {
+    background-color: #006600;
+    text-align: left;
+}
+
+.win-button {
+     width: 100%;
+     margin-bottom: 10px;
+     padding-left: 120px;
+     padding-right:120px;
+}
+
+.win-input {
+     padding-left: 120px;
+     padding-right:120px;
+}

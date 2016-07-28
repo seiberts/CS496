@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Place Order</title>
+    <link href="/css/order.css" rel="stylesheet" />
+    <script src="/js/order.js"></script>
+    <script src="/js/getTotal.js"></script>
+    <script src="/js/getTotal.js"></script>
+</head>
+<body class="win-type-body">
+    <div id="order">
+        <div>
+            <label class="win-label">Enter Your Order</label>
+            <br />Name of Order:<input id="orderName" class="win-textbox" /><br />
+            Choose Sandiwch:<br />
+            <div>
+                <img src="http://i.imgur.com/BDbn9wD.jpg" title="ham" width="160px" height="100px"/>
+                <button id="subHam" onclick="subSandwich(this.id)">-</button>
+                <button id="addHam" onclick="addSandwich(this.id)">+</button>
+                <label id="hamQuant">0</label>
+                <br>
+               
+                <img src="http://i.imgur.com/SBBWJZF.jpg" title="turkey" width="160px" height="100px" />
+                <button id="subTurkey" onclick="subSandwich(this.id)">-</button>
+                <button id="addTurkey" onclick="addSandwich(this.id)">+</button>
+                <label id="turkeyQuant">0</label>
+                <br>
+                
+                <img src="http://i.imgur.com/aItfoDw.jpg" title="ham" width="160px" height="100px" />
+                <button id="subRB" onclick="subSandwich(this.id)">-</button>
+                <button id="addRB" onclick="addSandwich(this.id)">+</button>
+                <label id="rbQuant">0</label>
+                <br>
+               
+                <img src="http://i.imgur.com/xOhpvur.jpg" title="ham" width="160px" height="100px" />
+                <button id="subMB" onclick="subSandwich(this.id)">-</button>
+                <button id="addMB" onclick="addSandwich(this.id)">+</button>
+                <label id="mbQuant">0</label>
+                <br>
+                Total Sandwiches:
+                <label id="total">0</label>
+                Total Sale Price: $
+                <label id="saleTotal">00.00</label>
+            </div>
+
+            <div>
+                Credit Card:<input id="credit" type="number" min="1000000000000000" max="9999999999999999"class="win-textbox" /><br />
+                Security Code: <input id="secCode" type="number" class="win-textbox" /><br />
+            </div>
+            <select id="shopLoc" class="win-dropdown">
+                <option  value="">Select Store</option>
+                <option  value="&to=42.360082,-71.058880">Boston, MA</option>
+                <option  value="&to=41.823989,-71.412834">Providence, RI</option>
+                <option  value="&to=41.763711,-72.685093">Hartford, CT</option>
+            </select>
+        </div>
+        <button id="placeOrder" class="win-button">Place Order</button>
+        <button id="home" class="win-button">Cancel Order</button><br />
+
+        </div>
+    </div>
+</body>
+</html>
